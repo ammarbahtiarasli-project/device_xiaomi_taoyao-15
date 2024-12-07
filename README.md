@@ -3,7 +3,7 @@ Copyright (C) 2022 The LineageOS Project
 Device configuration for Xiaomi 11 Lite 5G NE
 =========================================
 
-The Xiaomi 11 Lite 5G NE (codenamed _"lisa"_) is a mid-range smartphone from Xiaomi.
+The Xiaomi 12 Lite (codenamed _"taoyao"_) is a mid-range smartphone from Xiaomi.
 
 It was released in September 2021.
 
@@ -14,7 +14,7 @@ Basic   | Spec Sheet
 CPU     | Kryo 670, Up to 2.4 GHz, Octa-core CPU
 Chipset | Qualcomm Snapdragon 778G 5G (SM7325-2-AB)
 GPU     | Adreno 642L
-Memory  | 6/8 GB, LPDDR4X
+Memory  | 8 GB, LPDDR4X
 Storage | 128/256 GB, UFS 2.2
 Shipped Android Version | 11
 Battery | Non-removable 4250 mAh
