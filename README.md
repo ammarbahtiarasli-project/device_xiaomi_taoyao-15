@@ -1,6 +1,6 @@
 Copyright (C) 2022 The LineageOS Project
 
-Device configuration for Xiaomi 11 Lite 5G NE
+Device configuration for Xiaomi 12 Lite
 =========================================
 
 The Xiaomi 12 Lite (codenamed _"taoyao"_) is a mid-range smartphone from Xiaomi.
