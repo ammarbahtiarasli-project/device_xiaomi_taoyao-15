@@ -1,5 +1,3 @@
-Copyright (C) 2022 The LineageOS Project
-
 Device configuration for Xiaomi 12 Lite
 =========================================
 
@@ -20,7 +18,3 @@ Shipped Android Version | 11
 Battery | Non-removable 4250 mAh
 Display | 2400 x 1080 pixels, 6.55 inches
 Camera  | 64 MP main, 8 MP ultra-wide angle, 5 MP telemacro, 20 MP front
-
-## Device picture
-
-![Xiaomi 11 Lite 5G NE](https://i01.appmifile.com/webfile/globalimg/products/pc/xiaomi-11-lite-5g-ne/specs_01-fix.png "Xiaomi 11 Lite 5G NE")
